@@ -1,3 +1,5 @@
-models/*
-logs/*
-logs1/*
+models/
+logs/
+logs1/
+graphs/
+MNIST_data/
